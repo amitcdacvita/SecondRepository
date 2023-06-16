@@ -1,2 +1,2 @@
 hello this is my first day on git hub.
-welcom
+welcome
